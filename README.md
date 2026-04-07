@@ -1,7 +1,7 @@
 ### Diversity & Inclusion HR Analytics Dashboard
 Tool: Microsoft Power BI | Domain: HR Analytics | Dataset: PwC Switzerland (Forage)
 
-
+![image alt](https://github.com/Sweta941/Diversity-Inclusion-Analytics-Dashboard-/blob/8f25c52c7a6beb9c224766f08a5a1a046bf52b45/Screenshot%20(81).png)
 
 📌 Project Overview:
 
