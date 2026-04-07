@@ -3,11 +3,13 @@ Tool: Microsoft Power BI | Domain: HR Analytics | Dataset: PwC Switzerland (Fora
 
 
 
-📌 Project Overview
+📌 Project Overview:
+
 This project is a 3-page interactive Power BI dashboard built to analyze workforce diversity and inclusion metrics for a pharmaceutical company (Pharma Group AG) across FY20 and FY21. 
 The goal is to help HR stakeholders identify gender equity gaps across hiring, promotions, performance, and executive representation — and make data-driven decisions.
 
-🎯 Problem Statement
+🎯 Problem Statement:
+
 Organizations often struggle to measure and communicate diversity progress clearly. This dashboard addresses:
 
 (i) Is gender representation improving across job levels over time?
@@ -15,6 +17,7 @@ Organizations often struggle to measure and communicate diversity progress clear
 (iii) Where are the biggest equity gaps — by department, region, or age group?
 
 📂 Dashboard Pages
+
 ### Page 1 — Gender by Job Level
 
 - Headcount and % female/male split by job level (FY20 vs FY21).
