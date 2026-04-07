@@ -3,6 +3,8 @@ Tool: Microsoft Power BI | Domain: HR Analytics | Dataset: PwC Switzerland (Fora
 
 ![image alt](https://github.com/Sweta941/Diversity-Inclusion-Analytics-Dashboard-/blob/8f25c52c7a6beb9c224766f08a5a1a046bf52b45/Screenshot%20(81).png)
 
+![image alt](https://github.com/Sweta941/Diversity-Inclusion-Analytics-Dashboard-/blob/7ead264f5215a0fa75af80328e186e42e020ce7f/Screenshot%20(84).png)
+
 📌 Project Overview:
 
 This project is a 3-page interactive Power BI dashboard built to analyze workforce diversity and inclusion metrics for a pharmaceutical company (Pharma Group AG) across FY20 and FY21. 
