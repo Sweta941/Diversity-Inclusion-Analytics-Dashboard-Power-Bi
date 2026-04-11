@@ -54,5 +54,6 @@ Organizations often struggle to measure and communicate diversity progress clear
 👤 Author
 ------
 **[Sweta Mehta]**
- **Data Analyst | Power BI**
+
+**Data Analyst | Power BI**
   
