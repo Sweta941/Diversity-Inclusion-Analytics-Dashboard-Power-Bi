@@ -52,6 +52,7 @@ Organizations often struggle to measure and communicate diversity progress clear
 - Certain departments and regions show stronger gender balance than others
 
 👤 Author
- [Sweta Mehta]
- Data Analyst | Power BI
+------
+**[Sweta Mehta]**
+ **Data Analyst | Power BI**
   
