@@ -57,5 +57,3 @@ Organizations often struggle to measure and communicate diversity progress clear
 
 **Data Analyst | Power BI**
   
-
-
